@@ -1,3 +1,3 @@
-region = "us-east-1"
-label  = "hashicorp"
-app    = "terramino"
+region = "us-east-2"
+label  = "hashicorpjmltst.lab"
+app    = "terracirclejmltst"
